@@ -1,0 +1,3 @@
+Adventuring Guild management game
+
+Start as a small family business, be a fixer connecting the buyers of adventuring services and the adventurers. Collect your small fixer fees, build up reputation, build up relationships with better clients and better contractors. Then hire some adventurers as staff, retaining bigger chunk of their profits as a payment for stable employment. Then expand into a new territory. Take more demanding contracts because now you have a reliable, reputable party. Expand into making gear, brewing potions, selling stuff. Have a dark side of business where you finance something that creates a problem for a village, which then turns to you to fix it.
